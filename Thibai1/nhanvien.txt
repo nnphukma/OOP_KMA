@@ -1,0 +1,2 @@
+Nhan Vien Bep: {Ho va ten: phu, Tham Nien: 10, Que Quan:hy, Thoi Gian Lam: 3.0 tieng , isBepTruong=false, thuongChucVu=0.0, Luong: 300000.0}
+Nhan Vien Thu Ngan: {Ho va ten: ha, Tham Nien: 3, Que Quan:hy, Thoi Gian Lam: 5.0 tieng , isBietNgoaiNgu=false, Luong: 500000.0}

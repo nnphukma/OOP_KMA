@@ -1,0 +1,3 @@
+Ruong Hinh Chu Nhat { Ma ruong: ruong2, Chu Ho: Phudeptrai, Loai Cay trong: Ngo, Chieu Dai: 6.0, Chieu Rong: 4.0, Dien Tich: 24.0 }
+Ruong Hinh Vuong { Ma ruong: ruong1, Chu Ho: Phudeptrai, Loai Cay trong: Lua, Do dai cannh: 4.0, Dien Tich: 16.0 }
+Ruong Hinh Vuong { Ma ruong: ruong2, Chu Ho: Phudeptrai, Loai Cay trong: Khoai, Do dai cannh: 6.0, Dien Tich: 36.0 }
