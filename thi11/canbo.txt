@@ -1,0 +1,4 @@
+Quan Ly {Ho va ten:phu3, Nam Sinh: 2004, Gioi Tinh:true, Dia Chi: tb, He So Luong: 2.0, He so chuc vu: 0.1}
+Quan Ly {Ho va ten:phu4, Nam Sinh: 2006, Gioi Tinh:false, Dia Chi: hd, He So Luong: 3.0, He so chuc vu: 0.1}
+Nhan Vien {Ho va ten:phu1, Nam Sinh: 2005, Gioi Tinh:false, Dia Chi: hn, He So Luong: 2.0, Nganh Dao Tao: 1 }
+Nhan Vien {Ho va ten:phu2, Nam Sinh: 2005, Gioi Tinh:true, Dia Chi: hy, He So Luong: 3.0, Nganh Dao Tao: attv }

@@ -1,0 +1,10 @@
+Dien Thoai: Iphone 17 ProMax, dt01, 17000, 21000, 500
+May Tinh Bang: Ipad Air 5, mtb01, 15000, 17500, 12.0f
+Dien Thoai: Iphone 16 ProMax, dt02, 14000, 16500, 500
+May Tinh Bang: Ipad Air 4, mtb02, 12000, 16000, 12.0f
+May Tinh Bang: Ipad Air 3, mtb01, 5000, 7500, 12.0f
+Dien Thoai: Iphone 15 ProMax, dt03, 12000, 14900, 500
+Dien Thoai: Iphone 14 ProMax, dt04, 11000, 13500, 500
+May Tinh Bang: Ipad Pro M3, mtb01, 22000, 29000, 14.0f
+May Tinh Bang: Ipad Pro M1, mtb01, 17000, 21000, 14.0f
+Dien Thoai: Iphone 13 ProMax, dt05, 10000, 12900, 500

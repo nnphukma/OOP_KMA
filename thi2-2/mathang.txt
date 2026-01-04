@@ -1,0 +1,10 @@
+Mon an them : Com rang, mat01, 100, 15000, false
+Do uong: Coca, du01, 1000, 8000, false
+Mon an them : Pho Tai, mat02, 67, 20000, true
+Mon an them : Pho Chin, mat03, 36, 17000, true
+Do uong: Pepsi, du02, 1000, 8100, false
+Mon an them : Trung Tran, mat04, 99, 10000, false
+Mon an them : Chao Quay, mat05, 200, 15000, false
+Do uong: Bia Hanoi, du03, 1000, 9000, false
+Do uong: Caffe Nong, du04, 1000, 9100, true
+
